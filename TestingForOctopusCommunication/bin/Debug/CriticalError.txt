@@ -1,0 +1,88 @@
+30/7/2014 21:02:21  ---- User Request XFile---
+30/7/2014 21:02:21  ---XFile  Genereated Sucessfully
+30/7/2014 21:02:21  ---XFile Name :MPS.FFC6.20140627110746
+30/7/2014 21:02:21---XFile  Genereated Sucessfully----
+30/7/2014 21:02:21 ---Sftp Connecting----
+30/7/2014 21:02:23---Sftp Connected and Start Upload-----
+30/7/2014 21:02:23---XFile NameMPS.FFC6.20140627110746 Start Upload
+---XXXXXXXXXSFTP ERROR----
+------八達通上數發生錯誤---
+------請致電Donnie--------
+------電話: 91698541------
+System.IO.FileNotFoundException: Could not find file 'C:\RWL\Upload/MPS.FFC6.20140627110746'.
+File name: 'C:\RWL\Upload/MPS.FFC6.20140627110746'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at Tamir.SharpSsh.java.io.File.Length()
+   at Tamir.SharpSsh.java.io.File.length()
+   at Tamir.SharpSsh.jsch.ChannelSftp.put(String src, String dst, SftpProgressMonitor monitor, Int32 mode)
+   at Tamir.SharpSsh.Sftp.Put(String fromFilePath, String toFilePath)
+   at TestingForOctopusCommunication.Form1.XfileSFTP_Click(Object sender, EventArgs e) in d:\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\Form1.cs:line 663
+---XXXXXXXXXSFTP ERROR----
+30/7/2014 21:02:25 ---Sftp Connecting----
+30/7/2014 21:02:26---Sftp Connected and Start Upload-----
+30/7/2014 21:02:26---XFile NameMPS.FFC6.20140627110746 Start Upload
+---XXXXXXXXXSFTP ERROR----
+------八達通上數發生錯誤---
+------請致電Donnie--------
+------電話: 91698541------
+System.IO.FileNotFoundException: Could not find file 'C:\RWL\Upload/MPS.FFC6.20140627110746'.
+File name: 'C:\RWL\Upload/MPS.FFC6.20140627110746'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at Tamir.SharpSsh.java.io.File.Length()
+   at Tamir.SharpSsh.java.io.File.length()
+   at Tamir.SharpSsh.jsch.ChannelSftp.put(String src, String dst, SftpProgressMonitor monitor, Int32 mode)
+   at Tamir.SharpSsh.Sftp.Put(String fromFilePath, String toFilePath)
+   at TestingForOctopusCommunication.Form1.XfileSFTP_Click(Object sender, EventArgs e) in d:\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\Form1.cs:line 663
+---XXXXXXXXXSFTP ERROR----
+30/7/2014 21:02:28 ---Sftp Connecting----
+30/7/2014 21:02:30---Sftp Connected and Start Upload-----
+30/7/2014 21:02:30---XFile NameMPS.FFC6.20140627110746 Start Upload
+---XXXXXXXXXSFTP ERROR----
+------八達通上數發生錯誤---
+------請致電Donnie--------
+------電話: 91698541------
+System.IO.FileNotFoundException: Could not find file 'C:\RWL\Upload/MPS.FFC6.20140627110746'.
+File name: 'C:\RWL\Upload/MPS.FFC6.20140627110746'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at Tamir.SharpSsh.java.io.File.Length()
+   at Tamir.SharpSsh.java.io.File.length()
+   at Tamir.SharpSsh.jsch.ChannelSftp.put(String src, String dst, SftpProgressMonitor monitor, Int32 mode)
+   at Tamir.SharpSsh.Sftp.Put(String fromFilePath, String toFilePath)
+   at TestingForOctopusCommunication.Form1.XfileSFTP_Click(Object sender, EventArgs e) in d:\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\Form1.cs:line 663
+---XXXXXXXXXSFTP ERROR----
+30/7/2014 21:02:33 ---Sftp Connecting----
+30/7/2014 21:02:35---Sftp Connected and Start Upload-----
+30/7/2014 21:02:35---XFile NameMPS.FFC6.20140627110746 Start Upload
+---XXXXXXXXXSFTP ERROR----
+------八達通上數發生錯誤---
+------請致電Donnie--------
+------電話: 91698541------
+System.IO.FileNotFoundException: Could not find file 'C:\RWL\Upload/MPS.FFC6.20140627110746'.
+File name: 'C:\RWL\Upload/MPS.FFC6.20140627110746'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at Tamir.SharpSsh.java.io.File.Length()
+   at Tamir.SharpSsh.java.io.File.length()
+   at Tamir.SharpSsh.jsch.ChannelSftp.put(String src, String dst, SftpProgressMonitor monitor, Int32 mode)
+   at Tamir.SharpSsh.Sftp.Put(String fromFilePath, String toFilePath)
+   at TestingForOctopusCommunication.Form1.XfileSFTP_Click(Object sender, EventArgs e) in d:\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\Form1.cs:line 663
+---XXXXXXXXXSFTP ERROR----
+30/7/2014 21:02:37 ---Sftp Connecting----
+30/7/2014 21:02:39---Sftp Connected and Start Upload-----
+30/7/2014 21:02:39---XFile NameMPS.FFC6.20140627110746 Start Upload
+---XXXXXXXXXSFTP ERROR----
+------八達通上數發生錯誤---
+------請致電Donnie--------
+------電話: 91698541------
+System.IO.FileNotFoundException: Could not find file 'C:\RWL\Upload/MPS.FFC6.20140627110746'.
+File name: 'C:\RWL\Upload/MPS.FFC6.20140627110746'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at Tamir.SharpSsh.java.io.File.Length()
+   at Tamir.SharpSsh.java.io.File.length()
+   at Tamir.SharpSsh.jsch.ChannelSftp.put(String src, String dst, SftpProgressMonitor monitor, Int32 mode)
+   at Tamir.SharpSsh.Sftp.Put(String fromFilePath, String toFilePath)
+   at TestingForOctopusCommunication.Form1.XfileSFTP_Click(Object sender, EventArgs e) in d:\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\TestingForOctopusCommunication\Form1.cs:line 663

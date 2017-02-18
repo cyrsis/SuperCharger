@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Z.ExtensionMethods</id>
+    <version>1.3.0.0</version>
+    <title>Z.ExtensionMethods</title>
+    <authors>Jonathan Magnan</authors>
+    <owners>Jonathan Magnan</owners>
+    <licenseUrl>https://zextensionmethods.codeplex.com/license</licenseUrl>
+    <projectUrl>http://jonathanmagnan.com/extension-methods-library/</projectUrl>
+    <iconUrl>http://zzzproject.com/resources/images/all/logo32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension Methods Library enhance the .NET Framework by adding hundreds new methods to increase developers productivity and code readability.
+
+Website @ http://zzzproject.com/extension-methods-library/
+CodePlex @http://zextensionmethods.codeplex.com/
+
+NuGet Package:
+https://www.nuget.org/packages/Z.ExtensionMethods
+https://www.nuget.org/packages/Z.ExtensionMethods.WithNamespace
+https://www.nuget.org/packages/Z.ExtensionMethods.WithObjectNamespace</description>
+    <summary>Extension Methods Library enhance the .NET Framework by adding hundreds new methods to increase developers productivity and code readability.
+
+Website @ http://zzzproject.com/extension-methods-libra</summary>
+    <copyright>2014 Jonathan Magnan</copyright>
+    <tags>Extension Methods C# .NET Library</tags>
+  </metadata>
+</package>

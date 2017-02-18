@@ -1,0 +1,4 @@
+D:\TestingForOctopusCommunication\TestingForOctopusCommunication\DataLayer\bin\x64\Release\DataLayer.dll
+D:\TestingForOctopusCommunication\TestingForOctopusCommunication\DataLayer\bin\x64\Release\DataLayer.pdb
+D:\TestingForOctopusCommunication\TestingForOctopusCommunication\DataLayer\obj\x64\Release\DataLayer.dll
+D:\TestingForOctopusCommunication\TestingForOctopusCommunication\DataLayer\obj\x64\Release\DataLayer.pdb
